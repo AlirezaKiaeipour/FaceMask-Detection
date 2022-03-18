@@ -29,6 +29,8 @@
       python inference_image.py [--input_model INPUT] [--input_image INPUT]
       
       python inference_webcam.py [--input_model INPUT]
+      
+      python inference_qt.py [--input_model INPUT]
       ```
       
       ![1](https://user-images.githubusercontent.com/88143329/157250672-d1c343c6-b224-401e-939b-e230d1bd3335.png)
