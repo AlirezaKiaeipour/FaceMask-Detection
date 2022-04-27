@@ -23,9 +23,11 @@
       ## RUN
       You can run  Inference with the following command
       
-      **Please download the [Model](https://drive.google.com/file/d/12g18xGpmCgUQ4nAQLvW_hUnyUSTasA50/view?usp=sharing) first**
+      **Please Download [Model](https://drive.google.com/file/d/12g18xGpmCgUQ4nAQLvW_hUnyUSTasA50/view?usp=sharing)**
 
       ```
+      $ pip install requirements.txt
+      
       python inference_image.py [--input_model INPUT] [--input_image INPUT]
       
       python inference_webcam.py [--input_model INPUT]
